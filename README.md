@@ -11,7 +11,7 @@ Onchain Racers is a blockchain-based racing game built on Solidity. Players regi
 ## How It Works
 1. Players register with a custom speed value.
 2. Once enough players have joined, the race can be started.
-3. A random winner is selected from the registered racers.
+3. A random winner is selected from the registered racers. 
 4. The race concludes, and the winner is announced.
 
 ## Smart Contract Overview
