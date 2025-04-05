@@ -18,7 +18,7 @@ Onchain Racers is a blockchain-based racing game built on Solidity. Players regi
 The `OnchainRacers` contract consists of the following key functions:
 
 - `registerRacer(uint256 speed)`: Allows players to register for the race.
-- `startRace()`: Starts the race once enough players have joined.
+- `startRace()`: Starts the race once enough players have joined. 
 - `finishRace()`: Determines the winner randomly and resets the game.
 
 ## Deployment
